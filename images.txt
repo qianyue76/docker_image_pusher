@@ -2,4 +2,5 @@
 #modelscope-registry.cn-hangzhou.cr.aliyuncs.com/modelscope-repo/modelscope:ubuntu22.04-cuda12.1.0-py310-torch2.3.1-tf2.16.1-1.22.2
 #michaelf34/infinity:latest-cpu
 #michaelf34/infinity:0.0.75
-michaelf34/infinity:latest-trt-onnx
+#michaelf34/infinity:latest-trt-onnx
+modelscope-registry.cn-hangzhou.cr.aliyuncs.com/modelscope-repo/modelscope:ubuntu22.04-cuda12.1.0-py310-torch2.3.1-tf2.16.1-1.22.2
